@@ -1,0 +1,2 @@
+url = document.getElementById("url");
+
