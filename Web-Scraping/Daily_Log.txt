@@ -1,0 +1,4 @@
+# Day 1
+This is day one and i just created a github repository to start building a web scraping program but i think this is enough for today
+
+So to report I haven't written any lines of code today
